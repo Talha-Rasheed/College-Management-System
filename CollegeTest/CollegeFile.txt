@@ -1,0 +1,7 @@
+Name is : Asif , Depatment : Science , Class : 12 , Roll Number : 75 , Fee : 6500Rs
+Name is : Kashif , Depatment : Arts , Class : 12 , Roll Number : 64 , Fee : 6500Rs
+Name is : Abdullah , Depatment : Science , Class : 12 , Roll Number : 82 , Fee : 6500Rs
+Name is : Ali , Faculty Type : Teacher , No Of Classes : 1 , Salary : 35000Rs
+Name is : Adnan , Faculty Type : HOD , No Of Classes : 0 , Salary : 65000Rs
+Name is : Saad , Faculty Type : Teacher , No Of Classes : 2 , Salary : 35000Rs
+Name is : Adil , Management Type : Accounts , No of Hours : 6 , Pay : 13000Rs
